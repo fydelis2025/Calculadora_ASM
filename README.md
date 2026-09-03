@@ -27,7 +27,9 @@
 
 ## 🖼️ Captura de Tela
 
-
+<p align="center">
+  <img src="https://github.com/fydelis2025/Calculadora_ASM/blob/main/Fydelis-DiscoTools.png" alt="FydelisTechOS Dashboard" width="100%">
+</p>
 
 ---
 
